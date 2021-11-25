@@ -64,7 +64,7 @@ nav a {
 }
 
 nav a:hover { 
-	background-color: #406383; 
+	background-color: #092AF6; 
 }
 
 
@@ -80,7 +80,7 @@ h1{
 	font-size: 90px;
   	
   	overflow: hidden;
-  	 background: linear-gradient(to right,#406383,#406383 50% ,white 50% );
+  	 background: linear-gradient(to right,#092AF6,#092AF6 50% ,white 50% );
   	 background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -92,8 +92,8 @@ h1:hover {
    background-position: 0 100%;
 }
 :root {
-	--bg: #406383;
-	--primary: #406383;
+	--bg: #092AF6;
+	--primary: #092AF6;
 	--solid: #111111;
 	--btn-w: 10em;
 	--dot-w: calc(var(--btn-w)*.2);
@@ -118,7 +118,7 @@ h1:hover {
 }
 .btn a{
 	text-decoration: none;
-	color: #406383;
+	color: #092AF6;
 }
 .dot {
 	content: '';
@@ -198,5 +198,5 @@ img:nth-child(2){animation-delay:8s}
 }
 .btn1 a{
 	text-decoration: none;
-	color: #406383;
+	color: #092AF6;
 }
